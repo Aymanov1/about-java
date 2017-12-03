@@ -3,7 +3,7 @@
   <br>
   <img src="learnjava.png" />
    
-  <h1>
+  </h1>
 A brief tutorial about Java and JEE.
 ## Getting Started
 
