@@ -93,6 +93,27 @@ Example: Assume 'MyFirstJavaProgram' is the class name. Then the file should be 
 
 public static void main(String args[]) − Java program processing starts from the main() method which is a mandatory part of every Java program.
 
+###Java Identifiers
+
+
+All Java components require names. Names used for classes, variables, and methods are called identifiers.
+
+In Java, there are several points to remember about identifiers. They are as follows −
+<ul>
+<li>All identifiers should begin with a letter (A to Z or a to z), currency character ($) or an underscore (_).</li>
+
+<li>After the first character, identifiers can have any combination of characters.</li>
+
+<li>A key word cannot be used as an identifier.</li>
+
+<li>Most importantly, identifiers are case sensitive.</li>
+
+<li>Examples of legal identifiers: age, $salary, _value, __1_value.</li>
+
+<li>Examples of illegal identifiers: 123abc, -salary</li>
+</ul>
+
+
 
 A step by step series of examples that tell you have to get a development env running
 
