@@ -5,7 +5,8 @@
    
   </h1>
 A brief tutorial about Java and JEE.
-## Getting Started
+
+### Getting Started
 
 **Java** is a high-level programming language originally developed by Sun Microsystems and released in 1995. Java runs on a variety of platforms, such as Windows, Mac OS, and the various versions of UNIX. This tutorial gives a complete understanding of Java. This reference will take you through simple and practical approaches while learning Java Programming language
 <br>
@@ -45,6 +46,7 @@ Linux 7.1 or Windows xp/7/8 operating system
 Java JDK 8
 Microsoft Notepad or any other text editor
 This tutorial will provide the necessary skills to create GUI, networking, and web applications using Java.
+
 ### Java Basics
 When we consider a Java program, it can be defined as a collection of objects that communicate via invoking each other's methods. Let us now briefly look into what do class, object, methods, and instance variables mean.
 
@@ -71,7 +73,7 @@ public class MyFirstJavaProgram {
 }
 ```
 
-## Java basic systax
+### Java basic systax
 
 About Java programs, it is very important to keep in mind the following points.
 <ul>
